@@ -8,7 +8,7 @@ A set of [Node-RED](http://www.nodered.org) nodes for Elasticsearch including se
 Run the following command in the root directory of your Node-RED install
 
 ```
-npm install node-red-contrib-elasticsearch-jd
+npm install node-red-contrib-elasticsearch-continued
 ```
 
 ## Usage
